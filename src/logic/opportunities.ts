@@ -1,5 +1,8 @@
 export const opportunities = [
+  
+  
   // Start of Jan
+  
   
   {
     name: 'Qualcomm Global Scholars Program',
