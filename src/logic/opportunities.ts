@@ -13,8 +13,6 @@ export const opportunities = [
     deadline: '3 January 2022',
     type: 'Internship and FTE',
   },
-  
-  
   {
     name: 'Season of KDE',
     link: 'https://season.kde.org/',
@@ -104,6 +102,8 @@ export const opportunities = [
   //End of Jan
   
   //Start of Feb
+  
+  
   {
     name: 'Uber She++',
     link: 'https://events.beamery.com/uber/uber-she++-2022-t1khjteyw',
@@ -188,7 +188,7 @@ export const opportunities = [
     deadline: '28 February',
     type: 'Fellowship and Scholarship for Women',
   },
-   {
+  {
     name: 'LinkedIn CoachlN',
     link: 'https://linkedincoachin3.splashthat.com/',
     deadline: '27 February 2022',
@@ -204,8 +204,8 @@ export const opportunities = [
   
   //End of Feb
   
-  
   //Start of March
+  
 
   {
     name: 'Google Computer Science Summer Institute',
@@ -325,8 +325,9 @@ export const opportunities = [
  
   //End of March
   
-  
   //Start of April
+  
+  
   {
     name: 'Palantir Global Impact Scholarship',
     link: 'https://www.palantir.com/students/scholarship/global-impact/',
@@ -345,7 +346,7 @@ export const opportunities = [
     deadline: '3 April, 2022',
     type: 'FTE',
   },
-   {
+  {
     name: 'Mozilla Fellowship',
     link: 'https://foundation.mozilla.org/en/what-we-fund/fellowships/fellowships-faq/',
     deadline: ' 8 April',
@@ -463,8 +464,9 @@ export const opportunities = [
   
   //End of April
   
-  
   //Start of May
+  
+ 
   {
     name: 'Call for Code',
     link: 'https://developer.ibm.com/callforcode/',
@@ -514,7 +516,7 @@ export const opportunities = [
     deadline: '10 May',
     type: 'Internship',
   },
-   {
+  {
     name: 'professor harry messel international science school',
     link: 'https://www.sydney.edu.au/science/industry-and-community/community-engagement/international-science-school.html',
     deadline: '14 May',
@@ -532,7 +534,6 @@ export const opportunities = [
     deadline: '17 May',
     type: 'Mentorship',
   },
-  
   {
     name: 'IBM Quantum Challenge 2021',
     link: 'https://challenges.quantum-computing.ibm.com/iqc21',
@@ -551,7 +552,7 @@ export const opportunities = [
     deadline: '23 May',
     type: 'Open Source Mentorship',
   },
-   {
+  {
     name: 'Microsoft Engage',
     link: 'https://microsoft.acehacker.com/engage2021/?mc_cid=a82d11f2ad&mc_eid=3f7ceca487',
     deadline: '24 May',
@@ -576,18 +577,18 @@ export const opportunities = [
     type: 'Scholarship',
   },
   
+  
   //End of May
   
-  
-  
   //Start of June
+  
+  
   {
     name: 'Polygon Fellowship: Web3 Beginner Track',
     link: 'https://polygon.technology/polygon-fellowship/',
     deadline: '1 June 2022',
     type: 'Fellowship',
   },
-  
   {
     name: 'Walmart CodeHers',
     link: 'https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089',
@@ -600,7 +601,6 @@ export const opportunities = [
     deadline: '18 June 2022',
     type: 'Fellowship',
   },
-  
   {
     name: 'Pclubs Summer of Code',
     link: 'https://www.psoc.in/',
@@ -620,10 +620,12 @@ export const opportunities = [
     type: 'Mentorship',
   },
   
+  
   //End of June
   
-  
   //Start of July
+  
+  
   {
     name: 'Ethereum India Fellowship',
     link: 'https://ethereumindiafellowship.devfolio.co/',
@@ -708,9 +710,13 @@ export const opportunities = [
     deadline: '30 July',
     type: 'Skills challenge',
   },
+  
+  
   //End of july
   
   //start of aug
+  
+  
   {
     name: 'ThinkSwiss Research Scholarships: Asia-Pacific',
     link: 'https://swissnex.org/india/thinkswiss/',
@@ -747,7 +753,6 @@ export const opportunities = [
     deadline: '6 August 2021',
     type: '10-week workshop series with Facebook SWE',
   },
-  
   {
     name: 'Hiring Contest for Software Engineer (GeeksforGeeks)',
     link: 'GeeksforGeeks',
@@ -784,7 +789,7 @@ export const opportunities = [
     deadline: '15 August 2021',
     type: 'Open Source Mentorship',
   },
-   {
+  {
     name: 'IET India Scholarship Award 2021',
     link: 'https://scholarships.theietevents.com/#!',
     deadline: '15 August 2021',
@@ -826,7 +831,7 @@ export const opportunities = [
     deadline: '27 August 2021',
     type: 'Coding Competition',
   },
-   {
+  {
     name: 'Twitter DevelopHer',
     link: 'https://join.smartrecruiters.com/Twitter2/5485dd2b-817e-41ac-ad36-33735b8c2b68-developher2021india',
     deadline: '27 August 2021',
@@ -850,23 +855,25 @@ export const opportunities = [
     deadline: '30 August 2021',
     type: 'Fellowship for Women',
   },
-  
   {
     name: 'DAAD Scholarship',
     link: 'https://dare2compete.com/scholarship/daad-scholarship-university-of-bonn-germany-188554?lb=nciUx5O',
     deadline: '31 August 2021',
     type: 'Scholarship',
   },
-
   {
     name: 'Hack-O-Uplift',
     link: 'https://uplift.girlscript.tech/hack-o-uplift',
     deadline: '30 August 2021',
     type: 'Hackathon',
   },
+  
+  
   //end of aug
   
   //start of sept
+  
+  
   {
     name: 'American Express CodeStreet 21',
     link: 'https://codestreet-2021.hackerearth.com/',
@@ -916,9 +923,12 @@ export const opportunities = [
     type: 'Scholarship for Women',
   },
 
+  
   //end of sept
   
   //start of oct
+  
+  
   {
     name: 'Santa Fe Undergraduate Complexity Research',
     link: 'https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research',
@@ -969,10 +979,11 @@ export const opportunities = [
   },
 
   
-  
   //end of oct
   
   //start of nov
+  
+  
   {
     name: 'Pratibha - Scholarships for Women Engineers',
     link: 'http://www.eaton.in/EatonIN/EatonExcellenceAwards/index.htm',
@@ -997,9 +1008,12 @@ export const opportunities = [
     deadline: '30 November 2021',
     type: 'Scholarship',
   },
+  
+  
   //end of nov
   
   //start of dec
+  
   
   {
     name: 'WooTech Mentorship',
@@ -1043,9 +1057,13 @@ export const opportunities = [
     deadline: '31 December 2021',
     type: 'Internship',
   },
+  
+  
   //end of dec
   
   //start of All Year
+  
+  
   {
     name: 'MLH Fellowship',
     link: 'https://fellowship.mlh.io/',
@@ -1130,5 +1148,7 @@ export const opportunities = [
     deadline: 'All Year',
     type: 'Mentorship for young Women',
   },
+  
+  
   //end of all Year
 ]
