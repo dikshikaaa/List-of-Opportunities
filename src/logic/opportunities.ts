@@ -93,6 +93,12 @@ export const opportunities = [
     deadline: 'January',
     type: 'Scholarship',
   },
+  {
+    name: 'Amazon Future Engineer Scholarship',
+    link: 'https://www.amazonfutureengineer.com/',
+    deadline: '27 January',
+    type: 'Scholarship and Internship',
+  },
   
   
   //End of Jan
@@ -176,13 +182,18 @@ export const opportunities = [
     deadline: '25 February',
     type: 'Scholarship',
   },
-    {
+  {
+    name: 'WE by TalentSprint and supported by Google',
+    link: 'https://we.talentsprint.com/',
+    deadline: '28 February',
+    type: 'Fellowship and Scholarship for Women',
+  },
+   {
     name: 'LinkedIn CoachlN',
     link: 'https://linkedincoachin3.splashthat.com/',
     deadline: '27 February 2022',
     type: 'Mentorship for Women',
   },  
-  
   {
     name: 'Github Campus Expert Program',
     link: 'https://apply.githubcampus.expert/',
@@ -208,13 +219,13 @@ export const opportunities = [
     deadline: '1 March',
     type: 'Open Source Fest',
   },
-   {
+  {
     name: 'Juspay Hiring Challenge 2022',
     link: 'https://dare2compete.com/hackathon/juspay-hiring-challenge-2022-juspay-263513',
     deadline: '5 March 2022',
     type: 'Hackathon/Coding Challenge',
   },
-   {
+  {
     name: 'Amdocs Hackfest 2022',
     link: 'https://www.hackerearth.com/challenges/competitive/amdocs-hackfest-2022/',
     deadline: '4 March 2022',
@@ -238,7 +249,6 @@ export const opportunities = [
     deadline: '11 March',
     type: 'Coding Challenge',
   },
-   
   {
     name: 'Micron Global Women\'s Mentorship Program',
     link: 'https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Skyview-India/Micron-Global-Women-s-Mentorship-Program_JR13982',
@@ -257,8 +267,7 @@ export const opportunities = [
     deadline: '15 March 2022',
     type: 'Open Source Intership',
   },
-  
-   {
+  {
     name: 'Caltech Student-Faculty Programs (SURF)',
     link: 'SURF',
     deadline: '15 March',
@@ -270,17 +279,11 @@ export const opportunities = [
     deadline: '15 March',
     type: 'Mentorship',
   },
-   {
+  {
     name: 'Global Impact Scholarship',
     link: 'https://www.palantir.com/careers/students/scholarship/global-impact/',
     deadline: '17 March 2022',
     type: 'Scholarship',
-  },
-  {
-    name: 'WTEF by TalentSprint',
-    link: 'https://we.talentsprint.com/',
-    deadline: '21 March',
-    type: 'Fellowship for Women',
   },
   {
     name: 'Virtual Insights Series: An Exploratory Program',
@@ -300,13 +303,12 @@ export const opportunities = [
     deadline: '27 March',
     type: 'Fellowship',
   },
-   {
+  {
     name: 'Adobe CoDiva',
     link: 'https://www.firstnaukri.com/careers/customised/landingpage/adobe/codiva/index.html',
     deadline: '27 March',
     type: 'Hackathon for Women',
-  },
-   
+  }, 
   {
     name: 'AWS Community Builder Program',
     link: 'https://aws.amazon.com/developer/community/community-builders/',
